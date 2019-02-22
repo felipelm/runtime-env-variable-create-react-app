@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <p>API_URL: {window._env_.API_URL}</p>
         </header>
       </div>
     );
