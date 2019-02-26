@@ -6,4 +6,4 @@ services:
     ports:
       - 80:8080
     environment:
-      - API_URL=123456
+      - API_URL=http://test-api-docker-compose.com

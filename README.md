@@ -8,4 +8,4 @@ docker-compose up
 
 Access http://localhost/
 
-CREDITS: https://medium.freecodecamp.org/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70
+Blog Post: http://felipelinsmachado.com/runtime-environment-variable-using-docker-and-create-react-app/
